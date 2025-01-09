@@ -125,8 +125,19 @@
 Stripe API
 https://stripe.com/jp/payments?utm_campaign=APAC_JP_JA_Search_Nonbrand_Payments-Core_EXA-PHR-21278920292&utm_medium=cpc&utm_source=google&ad_content=714155577733&utm_term=%E6%B1%BA%E6%B8%88%20api&utm_matchtype=p&utm_adposition=&utm_device=c&gad_source=1&gclid=CjwKCAiAhP67BhAVEiwA2E_9gzKQwwGUlLGln0Vhtj2PIjcdxvfjs9gbWweuAI16eCcobIKIY7Ep-xoCh4kQAvD_BwE
 
-本人認証
 
+ジモティーは↓
+本人認証
+メールアドレス認証
+sms認証
+
+
+だから本人確認はこれで充分?
+
+
+
+ANYTIMESでは安心安全のため、案件内容（2万円以上の高額案件等）によっては、「本人確認（本人確認書類提出）」の承認が必須となります。
+2万円以下なら本人確認いらない?
 
 ## 参考情報
 
