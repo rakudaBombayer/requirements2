@@ -59,7 +59,7 @@
 - お願い事を受ける側は身分証の登録が必要。sms認証にする?。
 - お願い事をする側も身分証が必要かも? sms認証にする?。
   
-- チャット機能(可能であるなら投稿者のLINEでやり取りできる?)
+- チャット機能
 
 
 ### ユーザー機能
@@ -103,7 +103,6 @@
 - シンプルなUI/UX
   
 
-
 ## 7.業務フロー
 
 1. **お願い事をする側(投稿者側)**
@@ -119,6 +118,14 @@
     - 3.チャットでやり取りする。
     - 4.お手伝いする。
     - 5.報酬をもらう。
+
+
+使うAPI
+
+Stripe API
+https://stripe.com/jp/payments?utm_campaign=APAC_JP_JA_Search_Nonbrand_Payments-Core_EXA-PHR-21278920292&utm_medium=cpc&utm_source=google&ad_content=714155577733&utm_term=%E6%B1%BA%E6%B8%88%20api&utm_matchtype=p&utm_adposition=&utm_device=c&gad_source=1&gclid=CjwKCAiAhP67BhAVEiwA2E_9gzKQwwGUlLGln0Vhtj2PIjcdxvfjs9gbWweuAI16eCcobIKIY7Ep-xoCh4kQAvD_BwE
+
+本人認証
 
 
 ## 参考情報
