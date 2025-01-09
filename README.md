@@ -51,6 +51,20 @@
 
 ** お願い事をアプリに投稿することで助けてもらう人とマッチさせて助けてもらう。 **
 
+1. **お願い事をする側(投稿者側)**
+    - 1.アプリにお願い事とその報酬を投稿
+    - 2.応募者が多数の場合は選定
+    - 3.チャットでやりとり
+    - 4.お助けしてもらう。
+    - 5.お助けごとをしてもらった後は報酬を支払う。
+
+2. **お願い事を受ける側(応募者側)**
+    - 1.アプリに投稿された助けてほしいことに応募する。
+    - 2.投稿者に選定される。
+    - 3.チャットでやり取りする。
+    - 4.お手伝いする。
+    - 5.報酬をもらう。
+
 
 ## 5.機能要件
 
@@ -98,24 +112,9 @@
 - シンプルなUI/UX
   
 
-## 7.業務フロー
-
-1. **お願い事をする側(投稿者側)**
-    - 1.アプリにお願い事とその報酬を投稿
-    - 2.応募者が多数の場合は選定
-    - 3.チャットでやりとり
-    - 4.お助けしてもらう。
-    - 5.お助けごとをしてもらった後は報酬を支払う。
-
-2. **お願い事を受ける側(応募者側)**
-    - 1.アプリに投稿された助けてほしいことに応募する。
-    - 2.投稿者に選定される。
-    - 3.チャットでやり取りする。
-    - 4.お手伝いする。
-    - 5.報酬をもらう。
 
 
-使うAPI
+## 使うAPI
 
 Stripe API
 https://stripe.com/jp/payments?utm_campaign=APAC_JP_JA_Search_Nonbrand_Payments-Core_EXA-PHR-21278920292&utm_medium=cpc&utm_source=google&ad_content=714155577733&utm_term=%E6%B1%BA%E6%B8%88%20api&utm_matchtype=p&utm_adposition=&utm_device=c&gad_source=1&gclid=CjwKCAiAhP67BhAVEiwA2E_9gzKQwwGUlLGln0Vhtj2PIjcdxvfjs9gbWweuAI16eCcobIKIY7Ep-xoCh4kQAvD_BwE
