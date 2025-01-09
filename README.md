@@ -113,9 +113,8 @@
 ## 7.認証機能
 メールアドレス認証 Laravelの機能であり。
 
-sms認証↓
+sms認証 Twilio↓
 
-Twilio
 https://www.twilio.com/ja-jp
 
 
@@ -124,6 +123,10 @@ https://www.twilio.com/ja-jp
 Stripe API
 
 Twilio API
+
+
+
+
 
 ## 参考情報
 
