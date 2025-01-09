@@ -132,12 +132,18 @@ https://stripe.com/jp/payments?utm_campaign=APAC_JP_JA_Search_Nonbrand_Payments-
 sms認証
 
 
-だから本人確認はこれで充分?
 
+メールアドレス認証
+sms認証はどうするか？
+twilio
+
+
+だから本人確認はこれで充分?
 
 
 ANYTIMESでは安心安全のため、案件内容（2万円以上の高額案件等）によっては、「本人確認（本人確認書類提出）」の承認が必須となります。
 2万円以下なら本人確認いらない?
+
 
 ## 参考情報
 
