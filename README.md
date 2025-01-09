@@ -113,7 +113,7 @@
 ## 7.認証機能
 メールアドレス認証 Laravelの機能であり。
 
-sms認証 Twilio↓
+sms認証 Twilio
 
 https://www.twilio.com/ja-jp
 
