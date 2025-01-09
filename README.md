@@ -116,7 +116,8 @@
 
 ## 使うAPI
 
-Stripe API
+Stripe API↓
+
 https://stripe.com/jp/payments?utm_campaign=APAC_JP_JA_Search_Nonbrand_Payments-Core_EXA-PHR-21278920292&utm_medium=cpc&utm_source=google&ad_content=714155577733&utm_term=%E6%B1%BA%E6%B8%88%20api&utm_matchtype=p&utm_adposition=&utm_device=c&gad_source=1&gclid=CjwKCAiAhP67BhAVEiwA2E_9gzKQwwGUlLGln0Vhtj2PIjcdxvfjs9gbWweuAI16eCcobIKIY7Ep-xoCh4kQAvD_BwE
 
 
