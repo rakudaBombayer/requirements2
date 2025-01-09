@@ -84,7 +84,7 @@
     - 詳細情報
     - その希望日(希望期間)
     - 報酬種類(金額、物など)
-    - 金額　具体的な物(畑の野菜など)
+    - 金額(2万円以下)、具体的な物(畑の野菜など)
     - 所要時間
     - 場所?
 
@@ -110,6 +110,11 @@
 - シンプルなUI/UX
   
 
+## 7.認証機能
+メールアドレス認証 Laravelの機能であり。
+
+sms認証
+
 
 
 ## 使うAPI
@@ -118,22 +123,10 @@ Stripe API↓
 
 https://stripe.com/jp/payments?utm_campaign=APAC_JP_JA_Search_Nonbrand_Payments-Core_EXA-PHR-21278920292&utm_medium=cpc&utm_source=google&ad_content=714155577733&utm_term=%E6%B1%BA%E6%B8%88%20api&utm_matchtype=p&utm_adposition=&utm_device=c&gad_source=1&gclid=CjwKCAiAhP67BhAVEiwA2E_9gzKQwwGUlLGln0Vhtj2PIjcdxvfjs9gbWweuAI16eCcobIKIY7Ep-xoCh4kQAvD_BwE
 
-
-ジモティーは↓
-本人認証
-メールアドレス認証 Laravelの機能であり。
-sms認証　
+qita【PHP】stripe API で定額課金を実装する
+https://qiita.com/azukiazusa/items/584d69a373214769880c
 
 
-
-メールアドレス認証
-sms認証はどうするか？
-twilio
-
-
-
-ANYTIMESでは安心安全のため、案件内容（2万円以上の高額案件等）によっては、「本人確認（本人確認書類提出）」の承認が必須となります。
-2万円以下なら本人確認いらない?
 
 
 ## 参考情報
