@@ -88,11 +88,13 @@
 - シンプルなUI/UX
 
 ## 7.認証機能
-メールアドレス認証:Laravelの機能で実装。
+メールアドレス認証
+   - Laravelの機能で実装。
 
-sms認証:Twilioのapiを使って実装。
+sms認証
+   - Twilioのapiを使って実装。
 
-## 使うAPI
+## 8.使うAPI
 Stripe API
    - 決済機能のため
      
